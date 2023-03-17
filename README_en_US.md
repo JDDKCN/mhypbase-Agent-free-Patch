@@ -6,10 +6,10 @@
 ---
 
 ### software download:
-- Please go to the latest [Releases]() to download.
+- Please go to the latest [Releases](https://github.com/JDDKCN/mhypbase-Agent-free-Patch/releases/) to download.
 
 ### Software screenshot:
-- v0.3.0Beta 2022/03/17
+- v0.3.0Beta 2023/03/17
 ![APP_CN](Doc/APP_EN.png)
 
 ### Update log:
