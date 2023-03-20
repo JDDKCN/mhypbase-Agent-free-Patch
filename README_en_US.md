@@ -13,12 +13,15 @@
 ![APP_CN](Doc/APP_EN.png)
 
 ### Update log:
+- Urgent update to fix issues v0.3.1Beta
+1. Fixed the problem that the international server could not be used.
+
 - New features/bug fixes v0.3.0Beta
-1. Add multi-language option, language files can be edited in the languages folder.
-2. Now you can easily change the private key/public key. For details, please check the advanced options menu.
-3. You can choose whether to discard the RCE data packets sent by the server. - This may pose a potential threat to your computer.
-4. Fixed the bug that the 3.2 real terminal could not connect.
-5. Optimized the code.
+3. Add multi-language option, language files can be edited in the languages folder.
+4. Now you can easily change the private key/public key. For details, please check the advanced options menu.
+5. You can choose whether to discard the RCE data packets sent by the server. - This may pose a potential threat to your computer.
+6. Fixed the bug that the 3.2 real terminal could not connect.
+7. Optimized the code.
 
 ### Instructions:
 - start using
