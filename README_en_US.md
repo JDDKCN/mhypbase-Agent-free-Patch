@@ -14,6 +14,10 @@
 
 ### Update log:
 
+- Software optimization and bug fixes v0.3.4Beta
+1. Fixed some bugs.
+2. Added tool options.
+
 - Software optimization and bug fixes v0.3.3Beta
 1. Added installer.
 2. Fixed some bugs.
