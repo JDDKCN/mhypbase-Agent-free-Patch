@@ -1,6 +1,8 @@
 # mhypbase-Agent-free-Patch
 #### [中文](README.md)|English
 
+![Github](https://socialify.git.ci/JDDKCN/mhypbase-Agent-free-Patch/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com/u/103011451?v=4&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 > Genshin client one-click custom server agent-free patch.
 
 ---
