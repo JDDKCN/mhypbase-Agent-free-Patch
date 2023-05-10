@@ -1,6 +1,8 @@
 # mhypbase-Agent-free-Patch
 #### 中文|[English](README_en_US.md)
 
+![Github](https://socialify.git.ci/JDDKCN/mhypbase-Agent-free-Patch/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com/u/103011451?v=4&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 > 原神客户端一键式自定义服务器免代理补丁。
 
 ---
