@@ -7,6 +7,9 @@
 
 ---
 
+### 特别提示：
+- 此项目不再适用于 `3.5.0` 版本后的客户端。对于新版本客户端，请使用 [RSAPatch](https://github.com/34736384/RSAPatch) 。
+
 ### 软件下载：
 - 请到最新[Releases](https://github.com/JDDKCN/mhypbase-Agent-free-Patch/releases/)处下载。
 
